@@ -5,13 +5,13 @@ const UserSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    email: {
+    player: {
         type: String,
         required: true,
         unique: true
     },
-    password: {
-        type: String,
+    score: {
+        type: String,  // Change this to String if you want to store "5/15"
         required: true
     }
 });

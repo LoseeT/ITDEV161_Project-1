@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# ITDEV161_Activity-4
-=======
-# assignment2
->>>>>>> activity-4
+# ITDEV161_Project-1
